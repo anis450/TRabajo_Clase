@@ -78,6 +78,10 @@ El enfoque principal consiste en aplicar **regresión lineal** para comprobar si
 ##  Resultados y Discusión
 
 La gráfica obtenida muestra lo siguiente:
+<img width="689" height="479" alt="image" src="https://github.com/user-attachments/assets/684f90ff-b645-48d0-bc26-5a3f23f7b2b2" />
+
+<img width="637" height="621" alt="image" src="https://github.com/user-attachments/assets/9af4b591-d5e5-4a77-97d0-5636132c904e" />
+
 
 - Existe una **relación positiva fuerte** entre el peso del diamante (carat) y su precio.  
 - El modelo de regresión lineal logra capturar esta tendencia, ajustando una recta que representa adecuadamente el crecimiento del precio con respecto al tamaño del diamante.  
